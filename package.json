@@ -1,0 +1,19 @@
+{
+  "name": "wx-sub",
+  "version": "0.0.1",
+  "description": "paper-star-wechat-submain",
+  "main": "index.js",
+  "scripts": {
+    "build": "C:/CocosCreator/CocosCreator.exe --path 'C:/Users/YunYou/Documents/CocosProjects/paper-star/build/wechatgame' --build 'platform=wechatgame;debug=false'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaperStar/wx-sub.git"
+  },
+  "author": "YunYouJun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaperStar/wx-sub/issues"
+  },
+  "homepage": "https://github.com/PaperStar/wx-sub#readme"
+}
